@@ -1,0 +1,58 @@
+# ─── Build outputs ───────────────────────────────────────────────────────────
+/build/
+app/build/
+**/build/
+
+# ─── Gradle cache & wrappers ─────────────────────────────────────────────────
+.gradle/
+gradle/wrapper/gradle-wrapper.jar
+local.properties
+
+# ─── Android / SDK ───────────────────────────────────────────────────────────
+*.apk
+*.aab
+*.ap_
+*.dex
+*.class
+bin/
+gen/
+out/
+proguard/
+
+# ─── IntelliJ / Android Studio IDE ──────────────────────────────────────────
+.idea/
+*.iml
+*.iws
+*.ipr
+*.eml
+.DS_Store
+*.hprof
+
+# ─── Kotlin / JVM temp files ─────────────────────────────────────────────────
+.kotlin/
+*.kotlin_module
+**/*.kotlin_builtins
+
+# ─── OS temp / cache files ───────────────────────────────────────────────────
+.DS_Store
+Thumbs.db
+Desktop.ini
+ehthumbs.db
+$RECYCLE.BIN/
+
+# ─── Logs & temp ─────────────────────────────────────────────────────────────
+*.log
+*.tmp
+*.temp
+*.bak
+*.swp
+*.swo
+*~
+tmp/
+temp/
+cache/
+.cache/
+
+# ─── Capture / profiling output ──────────────────────────────────────────────
+captures/
+*.trace

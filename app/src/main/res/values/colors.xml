@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Core -->
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="off_white">#FFE0E0E0</color>
+
+    <!-- Matrix Palette -->
+    <color name="matrix_dot">#FFFFFFFF</color>
+    <color name="matrix_dot_dim">#FF808080</color>
+    <color name="matrix_bg">#FF000000</color>
+    <color name="matrix_accent">#FFE0E0E0</color>
+
+    <!-- LED style -->
+    <color name="led_on">#FFFFFFFF</color>
+    <color name="led_glow">#80FFFFFF</color>
+    <color name="led_off">#FF1A1A1A</color>
+
+    <!-- ASCII style -->
+    <color name="ascii_text">#FFFFFFFF</color>
+    <color name="ascii_bg">#FF000000</color>
+
+    <!-- Game Boy palette -->
+    <color name="gameboy_darkest">#FF0F380F</color>
+    <color name="gameboy_dark">#FF306230</color>
+    <color name="gameboy_light">#FF8BAC0F</color>
+    <color name="gameboy_lightest">#FF9BBC0F</color>
+
+    <!-- Retro LCD palette -->
+    <color name="lcd_dark">#FF1A1A1A</color>
+    <color name="lcd_medium">#FF555555</color>
+    <color name="lcd_light">#FFAAAAAA</color>
+    <color name="lcd_bright">#FFFFFFFF</color>
+
+    <!-- UI Colors -->
+    <color name="control_bg">#CC000000</color>
+    <color name="control_border">#33FFFFFF</color>
+    <color name="surface_dim">#1AFFFFFF</color>
+    <color name="ripple">#33FFFFFF</color>
+</resources>
